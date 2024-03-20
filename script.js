@@ -5,7 +5,7 @@ const buttonClear = document.getElementById('clear');
 
 buttonPlus.addEventListener('click', add);
 buttonMinus.addEventListener('click', subtract);
-buttonClear.addEventListener('click',clear);
+buttonClear.addEventListener('click', clear);
 
 let value = 0;
 
